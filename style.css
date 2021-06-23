@@ -1,0 +1,30 @@
+#HeadingButId{
+     width:100%;
+     margin-top:0px;
+     height:7%;
+     font-size:25px;
+}
+
+body{
+    background-size:cover ;
+}
+
+#footer{
+    background-color:gray;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    color:white;
+    line-height:2;
+}
+
+#Status , #NoOfObjects{
+    font-size:18px;
+}
+
+canvas{
+    border: 2px solid white;
+    margin-top:125px;
+    border-radius:20px;
+    box-shadow:5px 5px 5px white;
+}
